@@ -15,10 +15,3 @@ else {
 	console.log("false");
 }
 
-console.log("xDDDD");
-for(var i = 0; i < 5; i++) {
-	console.log("Nails " + i);
-}
-
-
-console.log("new branch");
