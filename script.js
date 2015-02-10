@@ -10,7 +10,9 @@ var b = 45;
 
 if(a===b) {
 	console.log("true");
-} 
+}
 else {
 	console.log("false");
 }
+
+console.log("xDDDD");
