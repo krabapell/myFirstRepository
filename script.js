@@ -14,9 +14,3 @@ if(a===b) {
 else {
 	console.log("false");
 }
-
-console.log("qwertyuiopasdfghjkl");
-console.log("qwertyuiopasdfghjkl");
-console.log("qwertyuiopasdfghjkl");
-console.log("qwertyuiopasdfghjkl");
-console.log("qwertyuiopasdfghjkl");
